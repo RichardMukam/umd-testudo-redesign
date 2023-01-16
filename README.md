@@ -1,1 +1,3 @@
-# umd-testudo-redesign
+### UMD TESTUDO Redesign
+
+The current webpage of the student portal provided by the **[Office of Registrar at the University of Maryland](https://www.testudo.umd.edu/)** is an utter mess. It lacks responsiveness for numerous devices like my own, an iPhone 11, and faces numerous accessibility issues: navigation, font size, contrast, and keyboard assessibility. As a school well marked on national rankings and deemed illustrious to many, it's inexcusable how neglected an essential tool of all students is. A project to address this exact issue was **[addressed](https://dbknews.com/2021/04/15/umd-testudo-website-project-elevate/)** in Spring of 2021, and it's projected to be completed three (3) years from now: in the fall of 2026! In the meantime, I thought it'd be a fantastic idea to design and develop a potential revamped **[TESTUDO](https://www.testudo.umd.edu/)**; the ideal website with all students in mind.
